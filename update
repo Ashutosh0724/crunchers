@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Covid Updates</title>
+	<link rel="stylesheet" type="text/css" href="updates.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+
+</head>
+<body>
+	<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h1 class="display-4">Covid Updates</h1>
+  </div>
+</div>
+	
+ <div>
+ 	<h1>Awareness</h1></div>
+ 
+ <div class="container image"><center>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/COVID-19_Outbreak_Cases_in_India.svg/1200px-COVID-19_Outbreak_Cases_in_India.svg.png" width="600px"  height="600px"></center></div>
+     <div class="w">
+ 	<ul>
+ 	<li><a href="https://www.google.com/aclk?sa=L&ai=DChcSEwj3p4OVgpPpAhVYHSsKHY6VAKUYABAAGgJzZg&ae=1&sig=AOD64_39HH2IDwRIyZgN04ykjImZgHVVQg&q&adurl=http://corona.mygov.in/&ved=2ahUKEwjX-vuUgpPpAhUGxDgGHbFbDvgQ0Qx6BAgcEAE">https://www.google.com/aclk?sa=L&ai=DChcSEwj3p4OVgpPpAhVYHSsKHY6VAKUYABAAGgJzZg&ae=1&sig=AOD64_39HH2IDwRIyZgN04ykjImZgHVVQg&q&adurl=http://corona.mygov.in/&ved=2ahUKEwjX-vuUgpPpAhUGxDgGHbFbDvgQ0Qx6BAgcEAE</a></li>
+ 	<li><a href="https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.who.int/health-topics/coronavirus&ved=2ahUKEwjX-vuUgpPpAhUGxDgGHbFbDvgQFjAYegQIDxAB&usg=AOvVaw3VDAlU6UyNqVdsdqVfwV2E&cshid=1588348238396">https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.who.int/health-topics/coronavirus&ved=2ahUKEwjX-vuUgpPpAhUGxDgGHbFbDvgQFjAYegQIDxAB&usg=AOvVaw3VDAlU6UyNqVdsdqVfwV2E&cshid=1588348238396</a></li>
+ 	<li><a href="https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.whatsapp.com/coronavirus/&ved=2ahUKEwiJ-cXciZPpAhXSV30KHT5FDIwQFjAyegQIEBAB&usg=AOvVaw30ANVERpHcURzabofwnOeN">https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.whatsapp.com/coronavirus/&ved=2ahUKEwiJ-cXciZPpAhXSV30KHT5FDIwQFjAyegQIEBAB&usg=AOvVaw30ANVERpHcURzabofwnOeN</a></li>
+ 	<li><a href="https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.worldometers.info/coronavirus/country/india/&ved=2ahUKEwiJ-cXciZPpAhXSV30KHT5FDIwQFjAzegQIFhAB&usg=AOvVaw14kdo83lKHsxqR2tKww6Vn">https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.worldometers.info/coronavirus/country/india/&ved=2ahUKEwiJ-cXciZPpAhXSV30KHT5FDIwQFjAzegQIFhAB&usg=AOvVaw14kdo83lKHsxqR2tKww6Vn</a></li>
+ 	<li><a href="https://www.covid19india.org/">https://www.covid19india.org/</a>
+ </ul>
+ </div>
+    
+ 
+ 
+  <div>
+     	<button class="btn btn-warning"><a href="file:///C:/Users/Devika/Desktop/html&css/tracker.html">Covid Tracker</a></button>
+ </div>
+</div>
+     </body>
+</html>
